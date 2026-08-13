@@ -11,4 +11,4 @@ function findEvenOdd(number) {
   }
 }
 
-findEvenOdd(ehrhr);
+findEvenOdd(5);
